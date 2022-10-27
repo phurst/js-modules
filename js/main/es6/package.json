@@ -1,0 +1,16 @@
+{
+  "name": "modules-js",
+  "version": "1.0.0",
+  "description": "Playing with JS modules in JS",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "es6": "node ./main-es6.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nigel Taylor",
+  "license": "MIT"
+}

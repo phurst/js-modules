@@ -1,0 +1,15 @@
+{
+  "name": "modules-js",
+  "version": "1.0.0",
+  "description": "Playing with JS modules in JS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "cjs": "node ./main-cjs.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nigel Taylor",
+  "license": "MIT"
+}
